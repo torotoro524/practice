@@ -16,4 +16,6 @@
 
 gifアニメーションの製作　https://www.bannerkoubou.com/anime/
 
+pythonサンプル集　https://algorithm.joho.info/programming/python/opencv-sample-code-py/
+
 Pythonエラー一覧　https://qiita.com/soutarrr7/items/84e529d87aa3b3a9adcb
